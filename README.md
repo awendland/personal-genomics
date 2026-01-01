@@ -38,6 +38,14 @@ claude
 - `analyses/GENOME_ANALYSIS.html` - Basic report
 - `analyses/GENOME_ANALYSIS_COMPREHENSIVE.html` - Detailed report with explanations, citations, comparisons
 
+## Example Output
+
+The comprehensive report provides detailed explanations, quantitative comparisons, and research citations for each variant:
+
+![Example: Caffeine metabolism (CYP1A2) variant with detailed explanation](readme_screenshot_caffeine_20260101.png)
+
+*Each variant includes inline explanations, genotype comparisons with specific numbers, mechanism details, population frequencies, and actionable recommendations—all backed by peer-reviewed research.*
+
 ## What Gets Analyzed
 
 **Pharmacogenomics (25+):** CYP enzymes (codeine, tamoxifen, antidepressants), TPMT/DPYD (chemo toxicity), VKORC1 (warfarin), HLA-B*15:02 (carbamazepine), NAT2 (isoniazid)
