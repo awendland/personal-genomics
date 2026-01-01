@@ -1,0 +1,39 @@
+# Genome Analysis - .gitignore
+
+# Sensitive genome data files (raw data)
+data/
+
+# Generated analysis files (contain personal genetic data)
+analyses/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keep directory structure
+!data/.gitkeep
+!analyses/.gitkeep
+
+# Optional: If you want to keep example files
+# Uncomment these to keep template/example files:
+# !analyses/README.md
+# !analyses/example.txt
